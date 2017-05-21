@@ -36,4 +36,4 @@ class TestOption:
     def test_print(self):
         """test print
         """
-        print(self.option)
+        print((self.option))
